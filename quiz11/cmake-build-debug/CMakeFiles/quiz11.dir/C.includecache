@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/quiz11/q11_3.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+

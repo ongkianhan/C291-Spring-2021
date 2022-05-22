@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/assignment8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/assignment8/cmake-build-debug/CMakeFiles/assignment8.dir
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/assignment8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

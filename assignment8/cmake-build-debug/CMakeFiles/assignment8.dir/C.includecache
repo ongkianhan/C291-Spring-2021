@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/assignment8/fig10_03.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+

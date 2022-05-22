@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\assignment6.dir/objects.a
+C:\Users\user\Desktop\MinGW\bin\ar.exe cr CMakeFiles\assignment6.dir/objects.a @CMakeFiles\assignment6.dir\objects1.rsp
+C:\Users\user\Desktop\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\assignment6.dir/objects.a -Wl,--no-whole-archive  -o assignment6.exe -Wl,--out-implib,libassignment6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\assignment6.dir\linklibs.rsp

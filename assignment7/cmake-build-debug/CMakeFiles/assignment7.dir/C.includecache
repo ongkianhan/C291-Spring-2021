@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/assignment7/assignment7.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+

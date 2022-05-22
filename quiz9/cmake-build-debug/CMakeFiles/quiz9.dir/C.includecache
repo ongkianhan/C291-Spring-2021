@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/quiz9/q9_2.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+

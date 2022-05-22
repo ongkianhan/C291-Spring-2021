@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment7"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment7">
+				<Option output="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/assignment7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\user\desktop\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\user\desktop\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\user\desktop\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\user\desktop\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment7"/>
+					<CompileFile command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment7/fast">
+				<Option output="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/assignment7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\users\user\desktop\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\users\user\desktop\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\users\user\desktop\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\users\user\desktop\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment7/fast"/>
+					<CompileFile command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/user/Desktop/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/assignment7.c">
+			<Option target="assignment7"/>
+		</Unit>
+		<Unit filename="C:/Users/user/Desktop/SP&apos;21/C291 (C and Unix)/C291-CLION-CODE/assignment7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

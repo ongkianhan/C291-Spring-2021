@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/hw3/file1.c
+
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/hw3/question3.c
+stdio.h
+-
+stdlib.h
+-
+file1.c
+C:/Users/user/Desktop/SP'21/C291 (C and Unix)/C291-CLION-CODE/hw3/file1.c
+time.h
+-
+

@@ -1,0 +1,4 @@
+ToolSet: 5.0 (local)@C:\Users\user\Desktop\MinGW
+Options: 
+
+Options:
