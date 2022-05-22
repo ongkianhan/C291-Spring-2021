@@ -1,5 +1,8 @@
 Final Submission for Snake Game
 
+This game has been built on code by two authors, Kent Ong and Gabriel Jude, both students in the Spring'21 C291 course at IU's Luddy School, offered by 
+Professor Adeel Bhutta.
+
 This version of Snake is built on IU's remote server Silo, using C and ncurses library on Linux. This version of Snake is similar to the popular version of the game we 
 love with extra functions. Dodge obstacles and eat food with your snake to increase your score! Beware of the enemy snake that lurks in the game that will also kill you 
 upon contact...
