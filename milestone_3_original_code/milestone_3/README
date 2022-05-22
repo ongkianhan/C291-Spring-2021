@@ -1,1 +1,32 @@
-This is the readme for milestone_3.
+Final Submission for Snake Game
+
+This version of Snake is built on IU's remote server Silo, using C and ncurses library on Linux. This version of Snake is similar to the popular version of the game we 
+love with extra functions. Dodge obstacles and eat food with your snake to increase your score! Beware of the enemy snake that lurks in the game that will also kill you 
+upon contact...
+
+Obstacles, food and snakes are color coded.
+
+** So far, snake is unable to reverse after hitting obstacles, this function in the game is still a work in progress. **
+
+
+Controls are as follows:
+
+W A S D OR Arrow Keys - movement controls: Up, Left, Down, Right respectively
+q or Q - quit the game
+'+' - increase the size of the board
+'-' - decrease the size of the board
+f or F - to save the state of the game into a file, that can be loaded at a later time
+l or L - to load a saved game
+
+The game can be run on three different difficulties, each with different speeds of the snake, number of food items and number of obstacles. 
+E or e - Easy
+H or H - Hard
+V or v - Advanced
+
+The game can also be run on multiplayer, which allows for a maximum of 2 snakes to be playing at concurrently the same time.
+M or m - to allow multiplayer mode.
+
+** Note, player 1 will have movement controls WASD, and player 2 will have movement controls of the arrow keys. **
+
+
+
